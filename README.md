@@ -1,5 +1,6 @@
 # Work and Project Experience Summary
 
+### "DevOps Engineer"-related Experience
 DevOps:
 - operations: shadow on call a few times; no monitoring
 - sprint planning, standups, development, ran test suite locally before publishing a code review via git, resolved merge conflicts with mainline, merged CR, watched through pipeline to release; if a build failed with one of my changes, i would go in and investigate; one time it did fail so i looked into the commits and the error logs; it didn’t look like my error so i consulted the teammate who was in charge of the pipeline builds for that week; he said it was his change that broke it.
@@ -25,10 +26,12 @@ K8s:
 SQL:
 - basic knowledge and experience
 
-Interpersonal / Collaboration:
+### Interpersonal / Collaboration Experience
 - helped and collaborated with fellow new hire on understanding new codebase and general Amazon and SWE practices and tools; specifically during the api migration project to understand how parts of the code worked and how dependency injection works as well as some minor Java features
 - gave tips to help other new hire onboard because i had run into many problems with the onboarding process and i wanted to help those who would onboard in the future; i wasnt given much guidance in the beginning (at Amazon)
 
+
+### Amazon SDE 1 Experience
 API migration:
 - Task: consolidate API calls to reduce size of codebase; Result: I shipped two of these APIs mostly by myself and was working on a third when lay-off happened
 
