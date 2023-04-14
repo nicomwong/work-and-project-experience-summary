@@ -32,6 +32,9 @@ SQL:
 
 
 ### Amazon SDE 1 Experience
+
+#### Tasks
+
 API migration:
 - Task: consolidate API calls to reduce size of codebase; Result: I shipped two of these APIs mostly by myself and was working on a third when lay-off happened
 
